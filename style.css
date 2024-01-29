@@ -1,0 +1,77 @@
+.heading
+{
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+  text-align: center;
+  background-color: burlywood;
+}
+
+
+
+.heading_div
+{
+  background: azure; 
+  border-radius: 20px; 
+  color: black;
+  width: 100%;
+}
+.heading_div2
+{
+  font-size: 18px ;
+}
+.result_para_tag
+{
+  border-radius: 10px;
+  font-size: 20px;
+  margin-top: 50px;
+  border-color: white;
+  background-color: black;
+}
+
+.result_para_tag:hover
+{
+  border-radius: 10px;
+  font-size: 20px;
+  margin-top: 50px;
+  border-color: black;
+  background-color: white;
+  color: black;
+}
+
+.imgas img
+{
+  border-radius: 5px;
+  border-color: black;
+  border-width: 5px;
+}
+
+.res
+{
+  background-color: black;
+  width: 250px;
+}
+
+.imgas
+{
+  padding-top: 10px;
+  border-color: black;
+  border-width: 5px;
+}
+
+.copy_right_footer
+{
+  position: fixed;
+  color: black;
+  bottom: 0;
+  width: 100%;
+  background-color: darkgray;
+  line-height: 3;
+  text-align: center;
+}
+
+body
+{
+  background-color: grey;
+  color: white;
+}
